@@ -16,7 +16,7 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meus conhe
 <h3>Análise de dados relacionados à "COVID longa"</h3>
 <h4>1º Semestre • 1/2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos (FATEC)</a></p>
-<p align="center"><img src="./public/imgs/covid.png" alt="Foto" style="width: 50%;">
+<p align="center"><img src="./public/imgs/covid.png" alt="Covid" style="width: 50%;">
 </p>
 <h3>Sobre o projeto</h3>
 <p align="justify">Consiste na criação de uma aplicação web que permite a analise de dados sobre a covid longa nas cidades de cobertura da Vanguarda, 
@@ -99,8 +99,8 @@ e experenciei a integração entre a parte visual do projeto com a parte do Back
 <h3>Sistema de gestão de chamadas de serviço</h3>
 <h4>2º Semestre • 2/2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos (FATEC)</a></p>
-<p align="center">![image](https://github.com/luccavilela/PortfolioDSM/assets/126621831/eafdda33-464d-4687-a7f1-73ad5183ef60)
-</img>
+<p align="center"><img src="./public/imgs/BC.png" alt="BetterCallUs" style="width: 30%;">
+</p>
 <h3>Sobre o projeto</h3>
 <p align="justify">Consiste na criação de um sistema que permita auxiliar clientes que tenham quaisquer tipos de problemas com equipamentos
 dentro de qualquer contexto, determinado pelos administradores, onde o usuário comum que consulta a central de problemas ou realiza a solicitação 
