@@ -1,6 +1,6 @@
 <h1>Portfólio - Lucca Loyale Pinho Vilela</h1>
 <h2>Sobre mim</h2>
-<p align="center">![image](https://github.com/luccavilela/PortfolioDSM/assets/126621831/80f990a8-07dc-4d9a-aa0b-a724ce2ed97a)
+<p align="center"><img src="./public/imgs/mfoto.JPEG" alt="Foto" style="width: 30%;">
 </p>
 <p align="justify">Sou um desenvolvedor apaixonado por tecnologia e programação, atualmente cursando o 3º semestre de Desenvolvimento de Software
 Multiplataforma pela FATEC São José dos Campos. </p>
