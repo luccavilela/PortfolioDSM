@@ -16,8 +16,8 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meus conhe
 <h3>Análise de dados relacionados à "COVID longa"</h3>
 <h4>1º Semestre • 1/2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos (FATEC)</a></p>
-<p align="center">![image](https://github.com/luccavilela/PortfolioDSM/assets/126621831/eafdda33-464d-4687-a7f1-73ad5183ef60)
-</img>
+<p align="center"><img src="./public/imgs/covid.png" alt="Foto" style="width: 50%;">
+</p>
 <h3>Sobre o projeto</h3>
 <p align="justify">Consiste na criação de uma aplicação web que permite a analise de dados sobre a covid longa nas cidades de cobertura da Vanguarda, 
 a fim de entender o impacto desssa condição no sistema de saúde das maiores cidades do Vale do Paraíba. </p>
