@@ -108,7 +108,7 @@ de suporte técnico para a solução do possível problema, o suporte o atende r
 ser consultado no futuro. O administrador é responsável por gerenciar e cadastrar os usuário e equipamentos.</p>
 <br>
 <h3>Tecnologias Utilizadas</h3>
-<p align="justify">Javascript:</a> Para realizar as lógicas e operações do banco de dados, possibilitando a interação entre a parte visual e o banco de dados.</p>
+<p align="justify">Typescript/Javascript:</a> Para realizar as lógicas e operações do banco de dados, possibilitando a interação entre a parte visual e o banco de dados.</p>
 <p align="justify">Html, CSS e React:</a> Para estruturação e estilização da parte visual.</p>
 <p align="justify">MySQL:</a> Para o Banco de dados. </p>
 <p align="justify">JIRA:</a> Para o controle do processo de desenvolvimento. </p>
@@ -185,4 +185,103 @@ problema esse que devido à experiência adquirida no semestre passado, não evi
 <p align="justify"><b>Comunicação:</b> A comunicação causou uma certa confusão na equipe, há uma necessidade de melhora para que os objetivos fiquem mais claros no começo do desenvolvimento.</p>
 </div>
 <hr>
+<h3>Sistema de gestão de chamadas de serviço</h3>
+<h4>3º Semestre • 1/2024 </h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://youtan.com.br/">Youtan</a></p>
+<p align="center"><img src="./public/imgs/BC.png" alt="BetterCallUs" style="width: 30%;">
+</p>
+<h3>Sobre o projeto</h3>
+<p align="justify">Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos de quaisquer tipos,definidos pelos administradores, 
+proporcionando à uma empresa uma plataforma eficaz de gerenciamento, com funcionalidades intuitivas para funcionários de qualquer perfil, estejam
+eles habituados com sistemas deste tipo ou não.
+</p>
+<br>
+<h3>Tecnologias Utilizadas</h3>
+<p align="justify">Typescript/Javascript:</a> Utilizado tanto para manipular dados, como para enviá-los para o Backend</p>
+<p align="justify">Html, CSS e React:</a> Para estruturação e estilização da parte visual.</p>
+<p align="justify">MySQL:</a> Para o Banco de dados. </p>
+<p align="justify">JIRA:</a> Para o controle do processo de desenvolvimento. </p>
+<p align="justify">Slack:</a> Para comunicação com o cliente. </p>
+<p align="justify">Git:</a> Para versionamento do projeto. </p>
+<p align="justify">Java:</a> Para controle das operações realizadas em torno das entidades do sistema. </p>
+<br>
+<h3>Lições Aprendidas e contribuições: </h3>
+<p align="justify">Neste semestre tive um certo progresso pessoal, devido ao desenvolvimento, mesmo que pequeno, no frontEnd, mesclado
+ao trabalho feito no Backend com Java, onde consegui fazer diversos CRUDS de várias entidades, como também fiz rotas específicas para
+filtrar dados como, por exemplo, exibir os valores totais de ativos por mês, exibir a quantidade e valor dos ativos por categoria ou modelo dos mesmos,
+para análise detalhada dos responsáveis da empresa</p>
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Html</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Css</td>
+      <td>★★☆☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<h3>Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Colaboração</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Entrega de resultado</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
+<p align="justify"><b>Comunicação:</b> A comunicação da equipe acabou atrasando o progresso do projeto, com diversas trocas de funções durante as Sprints.</p>
+<p align="justify"><b>Github:</b> Percebi que meus commits estão sendo enviados poucas vezes, porém com muitas mudanças, o que não é o ideal a se fazer para o versionamento, 
+então já estou buscando melhorar neste aspecto, para que eu possa enviar após cada avanço ou função pronta.</p>
+<p align="justify"><b>Adaptabilidade:</b> Apesar de desenvolver uma pequena parte visual e ter dado certo, o começo não foi tão ágil como eu esperava. </p>
+</div>
+<hr>
+
 
