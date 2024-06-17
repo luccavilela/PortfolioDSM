@@ -188,7 +188,7 @@ problema esse que devido à experiência adquirida no semestre passado, não evi
 <h3>Sistema de gestão de chamadas de serviço</h3>
 <h4>3º Semestre • 1/2024 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://youtan.com.br/">Youtan</a></p>
-<p align="center"><img src="./public/imgs/BC.png" alt="BetterCallUs" style="width: 30%;">
+<p align="center"><img src="./public/imgs/logoyoutan.png" alt="Youtan" style="width: 30%;">
 </p>
 <h3>Sobre o projeto</h3>
 <p align="justify">Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos de quaisquer tipos,definidos pelos administradores, 
