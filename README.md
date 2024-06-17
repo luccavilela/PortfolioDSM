@@ -94,7 +94,95 @@ e experenciei a integração entre a parte visual do projeto com a parte do Back
 <br>
 <p align="justify"><b>Comunicação:</b> Melhorar a comunicação com os membros da equipe a respeitos de obstáculos.</p>
 <p align="justify"><b>Adaptabilidade:</b> O baixo interesse pelo Front-End minou a agilidade de entrega de algumas tarefas devido à rotação de funções.</p>
-<br>
-<p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
+<h3>Sistema de gestão de chamadas de serviço</h3>
+<h4>2º Semestre • 2/2023 </h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos (FATEC)</a></p>
+<p align="center">![image](https://github.com/luccavilela/PortfolioDSM/assets/126621831/eafdda33-464d-4687-a7f1-73ad5183ef60)
+</img>
+<h3>Sobre o projeto</h3>
+<p align="justify">Consiste na criação de um sistema que permita auxiliar clientes que tenham quaisquer tipos de problemas com equipamentos
+dentro de qualquer contexto, determinado pelos administradores, onde o usuário comum que consulta a central de problemas ou realiza a solicitação 
+de suporte técnico para a solução do possível problema, o suporte o atende resolvendo os seus problemas e computa o problema relatado, podendo assim
+ser consultado no futuro. O administrador é responsável por gerenciar e cadastrar os usuário e equipamentos.</p>
+<br>
+<h3>Tecnologias Utilizadas</h3>
+<p align="justify">Javascript:</a> Para realizar as lógicas e operações do banco de dados, possibilitando a interação entre a parte visual e o banco de dados.</p>
+<p align="justify">Html, CSS e React:</a> Para estruturação e estilização da parte visual.</p>
+<p align="justify">MySQL:</a> Para o Banco de dados. </p>
+<p align="justify">JIRA:</a> Para o controle do processo de desenvolvimento. </p>
+<p align="justify">Slack:</a> Para comunicação com o cliente. </p>
+<p align="justify">Git:</a> Para versionamento do projeto. </p>
+<br>
+<h3>Lições Aprendidas e contribuições: </h3>
+<p align="justify">Neste semestre pude me encarregar da comunicação entre o FrontEnd e BackEnd, realizando qualquer tipo de manipulação de dados,
+seja criar, ler, atualizar ou excluir, com a maior dificuldade sendo o relacionamento entre as diversas entidades que fazem parte do sistema,
+problema esse que devido à experiência adquirida no semestre passado, não evitou a realização dos nossos objetivos, sendo resolvido em pouco tempo.</p>
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Html</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Css</td>
+      <td>★★☆☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<h3>Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★☆☆☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Colaboração</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Entrega de resultado</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
+<p align="justify"><b>Comunicação:</b> A comunicação causou uma certa confusão na equipe, há uma necessidade de melhora para que os objetivos fiquem mais claros no começo do desenvolvimento.</p>
+</div>
+<hr>
+
