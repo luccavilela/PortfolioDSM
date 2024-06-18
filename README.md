@@ -33,7 +33,7 @@ incluindo dados sobre casos, hospitalizações, sintomas, tratamentos e outros a
 <p align="justify">Neste semestre tive meu primeiro contato com a metodologia SCRUM. Participei da raspagem de dados utilizando o Python, selecionando cidades da região do Vale do Paraíba
 e analisando certos padrões nos valores coletados. Aprendi a importância da precisão e da qualidade dos dados na análise, ganhando experiência prática na resolução de problemas complexos de dados;
 e experenciei a integração entre a parte visual do projeto com a parte do Back-end.</p>
-<h4>Dificuldades e imprevistos:</h4>
+<h3>Dificuldades e imprevistos:</h3>
 <p align="justify"><b>Falta de dados:</b> Infelizmente os dados a respeito da COVID na região eram muito vagos, muitas vezes eles cobriam o estado inteiro de São Paulo, dificultando o nosso objetivo.</p>
 <p align="justify"><b>Comunicação:</b> Melhorar a comunicação com os membros da equipe a respeitos de obstáculos.</p>
 <p align="justify"><b>Adaptabilidade:</b> O baixo interesse pelo Front-End minou a agilidade de entrega de algumas tarefas devido à rotação de funções.</p>
@@ -121,7 +121,7 @@ ser consultado no futuro. O administrador é responsável por gerenciar e cadast
 <p align="justify">Neste semestre pude me encarregar da comunicação entre o FrontEnd e BackEnd, realizando qualquer tipo de manipulação de dados,
 seja criar, ler, atualizar ou excluir, com a maior dificuldade sendo o relacionamento entre as diversas entidades que fazem parte do sistema,
 problema esse que devido à experiência adquirida no semestre passado, não evitou a realização dos nossos objetivos, sendo resolvido em pouco tempo.</p>
-<h4>Dificuldades e imprevistos:</h4>
+<h3>Dificuldades e imprevistos:</h3>
 <p align="justify"><b>Comunicação:</b> A comunicação causou uma certa confusão na equipe, há uma necessidade de melhora para que os objetivos fiquem mais claros no começo do desenvolvimento, pois,
 esta carência de objetividade me fez fazer e refazer algumas tarefas, nas quais não tínhamos certeza de que eram realmente úteis.</p>
 <p align="justify"><b>Conexão entre servidor e cliente:</b> Meu baixo conhecimento de servidores no JavaScript dificultou a comunicação com a parte visual do projeto, tendo que ser autodidata e procurar uma maneira diferente de fazer.</p>
@@ -216,7 +216,7 @@ eles habituados com sistemas deste tipo ou não.
 ao trabalho feito no Backend com Java, onde consegui fazer diversos CRUDS de várias entidades, como também fiz rotas específicas para
 filtrar dados como, por exemplo, exibir os valores totais de ativos por mês, exibir a quantidade e valor dos ativos por categoria ou modelo dos mesmos,
 para análise detalhada dos responsáveis da empresa</p>
-<h4>Dificuldades e imprevistos:</h4>
+<h3>Dificuldades e imprevistos:</h3>
 <p align="justify"><b>Comunicação:</b> A comunicação da equipe acabou atrasando o progresso do projeto, com diversas trocas de funções durante as Sprints, que resultaram em um processo lento e confuso.</p>
 <p align="justify"><b>Github:</b> Percebi que meus commits estão sendo enviados poucas vezes, porém com muitas mudanças, o que não é o ideal a se fazer para o versionamento, 
 então já estou buscando melhorar neste aspecto, para que eu possa enviar após cada avanço ou função pronta.</p>
